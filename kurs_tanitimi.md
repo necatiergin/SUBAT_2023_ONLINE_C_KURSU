@@ -99,10 +99,11 @@ gibi kurumlar yer almaktadır.
 Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmaktadır. Derste yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github_ üzerinden paylaşılmaktadır.
 
 ## Kurs Ücreti
-Kurs ücreti __9.500__ **₺**'dir. Öğrenciler için (öğrencilik durumlarını belgelemek kaydıyla) kurs ücreti __9.100__ **₺**'dir. Bireysel katılımcılar kurs ücretlerini 2 taksit olarak ödeyebilirler.
+Programın toplam ücreti **9.500** &#8378;'dir. Öğrenci olanlar için kurs ücreti **9.100** &#8378;'dir. 
+Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. Bireysel katılımlar için kurs ücretine **KDV** dahildir. <br>
 
 ## Kursa Kayıt Olma
-&#128279;[Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/tZYvdu-gpjssEtZzkKmIMEIkZwH7hhznGg_O)  
+&#128279;[Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/tZUtcu2rqjssGtz4sgzolSd0HK0x0NMW_oux)  
 Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız. Ön kayıt yaptırmanızın bir bağlayıcılığı yoktur. Ancak sınırlı kontenjana sahip bu kursa kesin kayıt için ön kayıt sırası esas alınacaktır.
 
 #### Kurs hakkında sorularınız için doğrudan &#128279;[__Necati Ergin__ ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/) ya da ona bir [e-posta mesajı gönderebilirsiniz.](mailto:necatiergin2019@gmail.com)
