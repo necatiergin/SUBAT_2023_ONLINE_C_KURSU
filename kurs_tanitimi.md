@@ -16,7 +16,7 @@
 Eğitimin toplam süresi __180__ saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler __Cumartesi ve Pazar__ günleri  __14:00 – 18.00__ saatleri arasında __4'er saat__ olarak yapılacaktır.
+Dersler __Salı ve Perşembe__ günleri  __19:30 – 22.30__ saatleri arasında __3'er saat__ olarak yapılacaktır.
 
 ## Eğitim İçeriği
 &#128279;[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/necatiergin/kurs_programlari/blob/main/c_programlama_dili.md)
@@ -99,7 +99,7 @@ gibi kurumlar yer almaktadır.
 Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmaktadır. Derste yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github_ üzerinden paylaşılmaktadır.
 
 ## Kurs Ücreti
-Kurs ücreti __7.000__ **₺**'dir. Öğrenciler için (öğrencilik durumlarını belgelemek kaydıyla) kurs ücreti __6.300__ **₺**'dir. Bireysel katılımcılar kurs ücretlerini 2 taksit olarak ödeyebilirler.
+Kurs ücreti __9.500__ **₺**'dir. Öğrenciler için (öğrencilik durumlarını belgelemek kaydıyla) kurs ücreti __9.100__ **₺**'dir. Bireysel katılımcılar kurs ücretlerini 2 taksit olarak ödeyebilirler.
 
 ## Kursa Kayıt Olma
 &#128279;[Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/tZYvdu-gpjssEtZzkKmIMEIkZwH7hhznGg_O)  
