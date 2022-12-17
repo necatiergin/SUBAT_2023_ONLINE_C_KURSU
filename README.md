@@ -9,7 +9,7 @@ Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. Bireysel katıl�
 👨 Kurs eğitmeni **&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir.
 
 ## Kursla ilgili bağlantılar:
-&#128279; [Kursun Genel Tanıtımı](https://github.com/necatiergin/EYLUL_2022_ONLINE_C_KURSU/blob/main/kurs_tanitimi.md)<br>
+&#128279; [Kursun Genel Tanıtımı](hhttps://github.com/necatiergin/OCAK_2023_C_KURSU/blob/main/kurs_tanitimi.md)<br>
 &#128279; [Kurs İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/c_programlama_dili.md)<br>
 &#128279; [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZUtcu2rqjssGtz4sgzolSd0HK0x0NMW_oux)
 
