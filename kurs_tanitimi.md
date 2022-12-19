@@ -106,4 +106,4 @@ Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. Bireysel katıl�
 &#128279;[Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/tZUtcu2rqjssGtz4sgzolSd0HK0x0NMW_oux)  
 Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız. Ön kayıt yaptırmanızın bir bağlayıcılığı yoktur. Ancak sınırlı kontenjana sahip bu kursa kesin kayıt için ön kayıt sırası esas alınacaktır.
 
-#### Kurs hakkında sorularınız için doğrudan &#128279;[__Necati Ergin__ ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/) ya da ona bir [e-posta mesajı gönderebilirsiniz.](mailto:necatiergin2019@gmail.com)
+#### Kurs hakkında sorularınız için doğrudan &#128279;[__Necati Ergin__ ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/) ya da ona bir [e-posta mesajı gönderebilirsiniz.](mailto:necatiergin@plepaegitim.com)
