@@ -1,6 +1,6 @@
 ## OCAK - 2023 Online C Programlama Dili Kursu
 
-🏫 Bu kurs C ve Sistem Programcıları Derneği tarafından düzenlenmektedir.<br><br>
+🏫 Bu kurs __C ve Sistem Programcıları Derneği__ tarafından __Plepa Eğitim Hizmetleri__ işbirliği ile düzenlenmektedir.<br><br>
 📅 Kurs __24 Ocak 2023 Salı__ günü başlayacaktır.<br><br>
 ⏰ Dersler __Salı ve Perşembe__ günleri __19.30 - 22.30__ saatleri arasında yapılacaktır.<br><br>
 ⌛ Kursun toplam süresi __180__ saattir.<br><br>
