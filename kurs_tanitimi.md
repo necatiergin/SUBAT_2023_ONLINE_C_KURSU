@@ -40,6 +40,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Beko](https://www.beko.com.tr/), 
 [Belbim A.Ş](https://www.ibb.istanbul/CorporateUnit/Detail/156), 
 [Bites](https://www.bites.com.tr/),
+[Bull Teknoloji](https://www.linkedin.com/company/bull-technologies/),
 [BMC](https://www.bmc.com.tr/),
 [BSH](https://www.bsh-group.com/tr/), 
 [Cardtek](https://www.paycore.com/), 
