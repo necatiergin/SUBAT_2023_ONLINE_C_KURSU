@@ -68,7 +68,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Katon Elektronik](http://www.katonelektronik.com/),
 [Katron](http://katron.com.tr/), 
 [Koç Bilgi ve Savunma](https://www.kocsavunma.com.tr/), 
-[Luna Eelektronik](https://lunatr.com/),
+[Luna Elektronik](https://lunatr.com/),
 [Mamur Teknoloji](http://www.mamurtech.com/), 
 [Milsoft](https://www.milsoft.com.tr/),
 [Netaş](http://www.netas.com.tr/ana-sayfa/), 
