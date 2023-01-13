@@ -13,7 +13,7 @@
 &#9888;Kursa uygun olup olmadığınız konusunda şüpheleriniz varsa  &#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/) ile görüşebilirsiniz.
 
 ## Kurs Süresi
-Eğitimin toplam süresi __180__ saattir. 
+Eğitimin toplam süresi __200__ saattir. 
 
 ## Ders Günleri ve Saatleri
 Dersler __Salı ve Perşembe__ günleri  __19:30 – 22.30__ saatleri arasında __3'er saat__ olarak yapılacaktır.
