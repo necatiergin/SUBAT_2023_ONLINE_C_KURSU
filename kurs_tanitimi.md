@@ -113,7 +113,7 @@ Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmakt
 Programın toplam ücreti **9.500** &#8378;'dir. Öğrenci olanlar için kurs ücreti **8.800** &#8378;'dir. 
 
 ## Kursa Kayıt Olma
-&#128279;[Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/tZUtcu2rqjssGtz4sgzolSd0HK0x0NMW_oux)  
+&#128279;[Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us06web.zoom.us/meeting/register/tZAqfuiorT4uHNRPH-ZLc-DTJhNVJPizqjgO)  
 Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız. Ön kayıt yaptırmanızın bir bağlayıcılığı yoktur. Ancak sınırlı kontenjana sahip bu kursa kesin kayıt için ön kayıt sırası esas alınacaktır.
 
 #### Kurs hakkında sorularınız için doğrudan &#128279;[__Necati Ergin__ ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/) ya da ona bir [e-posta mesajı gönderebilirsiniz.](mailto:necatiergin@plepaegitim.com)
