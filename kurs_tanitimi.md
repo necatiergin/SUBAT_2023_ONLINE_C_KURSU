@@ -110,8 +110,7 @@ gibi kurumlar yer almaktadır.
 Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmaktadır. Derste yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github_ üzerinden paylaşılmaktadır.
 
 ## Kurs Ücreti
-Programın toplam ücreti **9.500** &#8378;'dir. Öğrenci olanlar için kurs ücreti **9.100** &#8378;'dir. 
-Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. Bireysel katılımlar için kurs ücretine **KDV** dahildir. <br>
+Programın toplam ücreti **9.500** &#8378;'dir. Öğrenci olanlar için kurs ücreti **8.800** &#8378;'dir. 
 
 ## Kursa Kayıt Olma
 &#128279;[Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/tZUtcu2rqjssGtz4sgzolSd0HK0x0NMW_oux)  
