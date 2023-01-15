@@ -4,8 +4,7 @@
 📅 Kurs __2 Şubat Perşembe__ tarihinde başlayacaktır.<br><br>
 ⏰ Dersler __Salı ve Perşembe__ günleri __19.30 - 22.30__ saatleri arasında yapılacaktır.<br><br>
 ⌛ Kursun toplam süresi __200__ saattir.<br><br>
-💰️ Programın toplam ücreti **9.500** &#8378;'dir. Öğrenci olanlar için kurs ücreti **9.100** &#8378;'dir. 
-Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. Bireysel katılımlar için kurs ücretine **KDV** dahildir. <br>
+💰️ Programın toplam ücreti **9.500** &#8378;'dir. Öğrenci olanlar için kurs ücreti **8.800** &#8378;'dir. 
 👨 Kurs eğitmeni **&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir.<br>
 👨 [Necati Ergin Youtube kanalı](https://www.youtube.com/@necatiergin)<br><br>
 
