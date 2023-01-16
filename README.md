@@ -1,6 +1,6 @@
 ## ŞUBAT - 2023 Online C Programlama Dili Kursu
 
-🏫 Bu kurs C ve Sistem Programcıları Derneği tarafından düzenlenmektedir.<br><br>
+🏫 Bu kurs [C ve Sistem Programcıları Derneği](www.csystem.org) tarafından düzenlenmektedir.<br><br>
 📅 Kurs __2 Şubat Perşembe__ tarihinde başlayacaktır.<br><br>
 ⏰ Dersler __Salı ve Perşembe__ günleri __19.30 - 22.30__ saatleri arasında yapılacaktır.<br><br>
 ⌛ Kursun toplam süresi __200__ saattir.<br><br>
